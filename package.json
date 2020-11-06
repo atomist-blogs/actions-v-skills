@@ -1,0 +1,22 @@
+{
+  "name": "@atomist-blogs/actions-v-skills",
+  "version": "1.0.0",
+  "description": "Test npm package for GitHub Actions vs. Atomist Skills blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomist-blogs/actions-v-skills.git"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "Atomist",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/atomist-blogs/actions-v-skills/issues"
+  },
+  "homepage": "https://github.com/atomist-blogs/actions-v-skills#readme"
+}
