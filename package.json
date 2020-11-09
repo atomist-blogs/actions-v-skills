@@ -1,7 +1,7 @@
 {
   "name": "@atomist-blogs/actions-v-skills",
   "version": "1.0.1",
-  "description": "Test npm package for GitHub Actions vs. Atomist Skills blog post",
+  "description": "Simple npm package for GitHub Actions vs. Atomist Skills blog post",
   "main": "index.js",
   "scripts": {
     "test": "true"
